@@ -1,4 +1,4 @@
-![Delta image](https://esiil.org/sites/default/files/styles/banner/public/2022-07/march2014_1920x1200.jpeg?itok=YO9FvG3m)
+![Delta image](img/march2014_1920x1200.jpeg)
 
 Earth and environmental data science instructor for [Earthlab](https://earthlab.colorado.edu/) 
 and [ESIIL](https://esiil.org/) in [Boulder, CO](https://www.bouldercoloradousa.com/).
