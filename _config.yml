@@ -1,5 +1,6 @@
 title: Elsa Culler
 description: Earth and Environmental Data Science Instructor
+logo: img/march2014_1920x1200.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
