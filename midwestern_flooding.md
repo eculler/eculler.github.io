@@ -111,3 +111,17 @@ Questions:
 
 Questions:
   * What are some ways that we as scientists can evaluate the contribution of climate change to a particular event?
+
+---
+
+### How does the U.S. Government evaluate flood risk?
+
+[![Bulletin 17C - Guidelines for determining flood flow frequency](image-6.png)](https://pubs.usgs.gov/tm/04/b05/tm4b5.pdf)
+
+> Source: [The US Geological Survey - Bulletin 17C](https://pubs.usgs.gov/tm/04/b05/tm4b5.pdf)
+
+Questions:
+  * What are some methods that the USGS uses to account for limited temporal extent of streamflow data?
+  * Bulletin 17C assumes stationarity of flood flow. Explain, and discuss the advantages and disadvantages of this approach. More info:
+    * [Stationarity is dead](https://www.science.org/doi/10.1126/science.1151915)
+    * [Stationarity is undead](https://www.sciencedirect.com/science/article/pii/S0309170815000020)
