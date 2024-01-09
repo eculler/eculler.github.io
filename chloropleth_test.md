@@ -6,4 +6,4 @@
 
 ## Interactive Plot
 
-{% include midwestern_flooding.html %}
+{% include chloropleth.html %}
