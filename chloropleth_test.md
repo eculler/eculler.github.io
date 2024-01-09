@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
 <head>
    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
    <script>
@@ -11,7 +11,7 @@
    <h2>Include an interactive HTML graph from Figshare in this HTML using <i>JQuery load</i></h2>
    <div id="includeHtml"></div>
 </body>
-</html>
+</html> -->
 
 
 {% include midwestern_flooding.html %}
