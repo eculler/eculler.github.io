@@ -1,0 +1,61 @@
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Elsa Culler
+    tagline: Earth Data Science Curriculum Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: elsa.culler@colorado.edu
+    timezone: America/Cancun Timezone
+    citizenship: USA and Österreich
+    website: eculler.github.io
+    linkedin: eculler
+    github: eculler
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Conversational
+
+        - idiom: German
+          level: Basic
+
+    interests:
+      title: Interests
+      info:
+        - item: Classical piano and cello
+          link:
+
+        - item: Gardening
+          link:
+
+        - item: Drawing comics
+          link:
+
+education:
+    title: Education
+    info:
+      - degree: PhD in Water Resources
+        university: University of Colorado Boulder
+        time: 2017-2021
+        details: |
+          Cascading natural hazards, post-wildfire landslides, and
+          land surface modeling
+      - degree: BS in Mechanical Engineering
+        university: Franklin W. Olin College of Engineering
+        time: 2008 - 2012
+        details: 
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
