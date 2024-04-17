@@ -7,4 +7,4 @@ I teach the Earth Data Analytics Professional Graduate Certificate Program at th
   - [ESIIL Data Short Course Textbook](https://cu-esiil-edu.github.io/esiil-learning-portal/shortcourse)
 
 ## Curriculum notebooks
-  - [Midwestern Flooding](https://eculler.github.io/midwestern_flooding.html
+  - [Midwestern Flooding](https://eculler.github.io/midwestern_flooding.html)

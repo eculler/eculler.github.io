@@ -1,6 +1,7 @@
 # In 2019, large swaths of the Midwestern United States were inundated by floods.
 
-![Inland floods in the Midwest - houses partially submerged in brown water](https://media.npr.org/assets/img/2019/03/21/ap_19079767967884-312c5c4cd8f95e7f8614d4740f1f6fcabada7a04-s1100-c50.jpg)
+<img 
+  alt="Inland floods in the Midwest - houses partially submerged in brown water" src="https://media.npr.org/assets/img/2019/03/21/ap_19079767967884-312c5c4cd8f95e7f8614d4740f1f6fcabada7a04-s1100-c50.jpg" width="525px">
 
 > Image source: <a src=https://www.npr.org/2019/03/21/705408364/nebraska-faces-over-1-3-billion-in-flood-losses target="_blank"> National Public Radio - Nebraska faces over 1.3 billion in flood losses.</a>"
 
@@ -29,7 +30,13 @@ What was that like? What kinds of human impacts did it have? Do you have any pho
 
 ### Interactive Reporting from the New York Times highlights the impacts of the flooding across the region
 
-[![Midwest Flooding Interactive Reporting](image.png)](https://www.nytimes.com/interactive/2019/09/11/us/midwest-flooding.html")
+<a href="https://www.nytimes.com/interactive/2019/09/11/us/midwest-flooding.html">
+  <img 
+    alt="Midwest Flooding Interactive Reporting"
+    src="assets/images/midwestern_flooding/nytimes_preview.png" 
+    width="525px">
+</a>
+
 
 > Source: [The New York Times](https://www.nytimes.com/interactive/2019/09/11/us/midwest-flooding.html)
 
@@ -43,7 +50,7 @@ Questions:
 
 ### Compare the Missouri River before and during flooding at NASA Earth Observatory
 
-[![Nebraska inundated by Flooding](image-1.png)](https://earthobservatory.nasa.gov/images/144691/historic-floods-inundate-nebraska)
+[![Nebraska inundated by Flooding](assets/images/midwestern_flooding/image-1.png)](https://earthobservatory.nasa.gov/images/144691/historic-floods-inundate-nebraska)
 
 > Source: [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/144691/historic-floods-inundate-nebraska)
 
@@ -71,7 +78,7 @@ Questions:
 
 ### In situ streamflow measurements in Omaha, NE were much higher than normal throughout 2019, but particularly in March
 
-[![Streamflow on the Missouri River at Omaha, NE. Streamflow was much higher throughout 2019 than the previous year](image-4.png)](https://waterdata.usgs.gov/monitoring-location/06610000/#parameterCode%253D00065%2526showMedian%253Dtrue%2526startDT%253D2018-10-01%2526endDT%253D2020-09-30)
+[![Streamflow on the Missouri River at Omaha, NE. Streamflow was much higher throughout 2019 than the previous year](assets/images/midwestern_flooding/image-4.png)](https://waterdata.usgs.gov/monitoring-location/06610000/#parameterCode%253D00065%2526showMedian%253Dtrue%2526startDT%253D2018-10-01%2526endDT%253D2020-09-30)
 
 > Source: [USGS Water Data for the Nation - Monitoring Station on the Missouri River near Omaha, NE](https://waterdata.usgs.gov/monitoring-location/06610000/#parameterCode%253D00065%2526showMedian%253Dtrue%2526startDT%253D2018-10-01%2526endDT%253D2020-09-30)
 
@@ -105,7 +112,7 @@ Questions:
 
 ### Climate change is increasing flood hazards, but did it contribute to these floods?
 
-[![Image of floods in an article about increased flood hazards](image-5.png)](https://yaleclimateconnections.org/2019/04/did-climate-change-cause-midwest-flooding/)
+[![Image of floods in an article about increased flood hazards](assets/images/midwestern_flooding/image-5.png)](https://yaleclimateconnections.org/2019/04/did-climate-change-cause-midwest-flooding/)
 
 > Source: [Yale Climate Connections](https://yaleclimateconnections.org/2019/04/did-climate-change-cause-midwest-flooding/)
 
@@ -116,7 +123,7 @@ Questions:
 
 ### How does the U.S. Government evaluate flood risk?
 
-[![Bulletin 17C - Guidelines for determining flood flow frequency](image-6.png)](https://pubs.usgs.gov/tm/04/b05/tm4b5.pdf)
+[![Bulletin 17C - Guidelines for determining flood flow frequency](assets/images/midwestern_flooding/image-6.png)](https://pubs.usgs.gov/tm/04/b05/tm4b5.pdf)
 
 > Source: [The US Geological Survey - Bulletin 17C](https://pubs.usgs.gov/tm/04/b05/tm4b5.pdf)
 
