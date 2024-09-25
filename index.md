@@ -8,3 +8,4 @@ I teach the Earth Data Analytics Professional Graduate Certificate Program at th
 
 ## Curriculum notebooks
   - [Midwestern Flooding](https://eculler.github.io/midwestern_flooding.html)
+  - [Practice portfolio post](posts/portfolio_post.html)
